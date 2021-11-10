@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\CommandPatternStock\CommandPatternStock\bin\Debug\CommandPatternStock.exe.config
+C:\Users\54926\source\repos\CommandPatternStock\CommandPatternStock\bin\Debug\CommandPatternStock.exe
+C:\Users\54926\source\repos\CommandPatternStock\CommandPatternStock\bin\Debug\CommandPatternStock.pdb
+C:\Users\54926\source\repos\CommandPatternStock\CommandPatternStock\obj\Debug\CommandPatternStock.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\CommandPatternStock\CommandPatternStock\obj\Debug\CommandPatternStock.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\CommandPatternStock\CommandPatternStock\obj\Debug\CommandPatternStock.exe
+C:\Users\54926\source\repos\CommandPatternStock\CommandPatternStock\obj\Debug\CommandPatternStock.pdb
